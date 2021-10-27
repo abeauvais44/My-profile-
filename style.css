@@ -1,0 +1,96 @@
+h1 {
+color: 118ab2;
+font-size: 50px;
+font-family: 'Merriweather',serif;
+text-align: center;
+}
+
+
+.content {
+    font-family: 'Merriweather', serif;
+    background-color:dfe7fd;
+    text-align: center;
+    border-radius:  10px;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 5px 5px 3px grey;
+    width: 700px;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+    background-color: cddafd;
+    text-align: center;
+    color: C2BBF0;
+}
+
+h2 {
+color: 118ab2;
+font-size: 30px;                                  
+font-family: 'Merriweather', serif;
+text-align: center;
+ }
+
+h3 {
+color: 118ab2;                                    
+font-family: 'Merriweather', serif;
+text-align: center;
+
+}
+
+ .styled {
+    border: 0;
+    margin: 20px 0px;
+    line-height: 2.5;
+    padding: 30px;
+    font-size: 1rem;
+    text-align: center;
+    color: 118ab2;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color:edf2f4;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.button{
+    background-color: whitesmoke;
+    color: black;
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.button:hover{
+    background-color: skyblue;
+}
+
+
+
+h4 {
+color: 118ab2;                                    
+font-family: 'Merriweather', serif;
+text-align: center;
+}
+
+
+#logo{
+    border-radius: 50%;
+}
+
+li{font-family: 'Merriweather', serif;
+background-color: cddafd;
+text-align: center;
+color: 62BFED;}
+}
+
